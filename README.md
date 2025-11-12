@@ -1,10 +1,13 @@
-# lab06-proceduralFace
+# lab05-proceduralFace
 
 A practice of parameterization! Starting with an oh-so-beautiful gingerbread man face that looks like this:
 ![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
 
 ## Parameters
 SURPRISE, GOOFY, SADNESS, each ranged from 0 to 1.
+
+## Shadertoy link
+[ProceduralFace](https://www.shadertoy.com/view/wXBBDV#)
 
 ## Example 1
 SURPRISE = 1.0
